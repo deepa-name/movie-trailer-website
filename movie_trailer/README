@@ -1,0 +1,3 @@
+To run:
+
+execute movie_trailer.py (> python movie_trailer.py) to open the movie website, that shows a list of movies, which can then be interacted with. Click on the Sort by Name to arrange the movies alphabetically and Sort by Latest buttons to order movies by the latest release date. Click on the movie that interests you and see the movie trailer, it’s plot and release date.
